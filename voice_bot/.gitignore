@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Google Cloud credentials
+*.json
+!package.json
+credentials/
+service-account-*.json
+
+# Audio files (generated)
+data/audio/*.mp3
+data/audio/*.wav
+*.mp3
+*.wav
+*.ogg
+*.flac
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# PyInstaller
+*.spec
+
+# Backup files
+*.bak
+*.backup
+
+# Documentation builds
+docs/_build/
+
+# Cache
+.cache/
