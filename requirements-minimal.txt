@@ -1,8 +1,0 @@
-# Minimal requirements - Install these first to run the demo
-google-cloud-speech==2.26.0
-google-cloud-texttospeech==2.16.3
-google-auth==2.29.0
-python-dotenv==1.0.1
-requests==2.31.0
-pyyaml==6.0.1
-numpy==1.26.4
